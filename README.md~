@@ -1,0 +1,10 @@
+# myupload
+flask http upload form dropping files into a local directory.
+
+aiming for max compatibility and simple usability
+
+# install
+```
+pip install -r requirements.txt
+mkdir uploads
+```
